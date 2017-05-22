@@ -4,4 +4,6 @@
 //import "./examples/04.setTimeout";
 //import "./examples/05.simple-operators";
 //import "./examples/06.reduce-bundle-size";
-import "./examples/07.dom-events";
+//import "./examples/07.dom-events";
+//import "./examples/08.xml-http-request";
+import "./examples/09.xml-http-request-clean";
