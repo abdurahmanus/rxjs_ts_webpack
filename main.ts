@@ -8,4 +8,5 @@
 //import "./examples/08.xml-http-request";
 //import "./examples/09.xml-http-request-clean";
 //import "./examples/10.retry";
-import "./examples/11.retry-when";
+//import "./examples/11.retry-when";
+import "./examples/12.fetch";
